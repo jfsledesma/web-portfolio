@@ -66,10 +66,17 @@ h2 {
 	text-align: center;
 }
 
-.att{
-	font-size: 10px;
+.att {
+	font-size: 8px;
 	font-family: 'Roboto Slab', serif;
 	background-color: rgba(51, 51, 51, 0.8);
+	width: 100px;
+	padding: 0.5px 1px;
+	text-align: center;
+}
+
+.atttext{
+	line-height: 0.5;
 }
 
 a {
